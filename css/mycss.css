@@ -1,0 +1,14 @@
+
+#contenedor{
+	width: 100%;
+	height: 500px;
+	text-align: center;
+	vertical-align: middle;
+}
+#marc{
+	text-align: center;
+	width: 950px;
+	height: 40px;
+	margin: auto;
+	color: white;
+}

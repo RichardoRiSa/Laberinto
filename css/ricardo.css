@@ -1,0 +1,27 @@
+body{
+	color:white;
+}
+p{
+	color:white;
+	font-size: 130%;
+}
+.thumbnail{
+	background-color: black;
+}
+#titulo{
+	text-align: center;
+}
+.centrar{
+	text-align: center;
+}
+.het{
+	font-size: 120%;
+	color: white;
+}
+.het2{
+	font-size: 90%;
+	color: white;
+}
+.cen{
+	vertical-align: center;
+}
